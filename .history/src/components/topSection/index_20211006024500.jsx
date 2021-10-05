@@ -44,7 +44,7 @@ const Paragraph = styled.p`
   text-align: center;
 `;
 
-const DonateButton = styled.a`
+const DonateButton = styled.button`
   border: 2px solid #ffffff;
   background-color: transparent;
   color: #fff;
@@ -76,8 +76,7 @@ export function TopSection() {
       <Logo>MAPPING SPACE TRASH IN REAL TIME</Logo>
       <Slogan>Nasa Space Challenge</Slogan>
       <DonateButton
-      href='http://debris.paymona.com'
-      target='_blank'
+      щтСдш
       >Launch Demo</DonateButton>
       </Wrap>
     </TopSectionContainer>
