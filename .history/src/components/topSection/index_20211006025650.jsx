@@ -77,7 +77,7 @@ export function TopSection() {
       <Logo>MAPPING SPACE TRASH IN REAL TIME</Logo>
       <Slogan>Nasa Space Challenge</Slogan>
       <DonateButton
-      href='http://debris.paymona.demo.com'
+      href='http://debris.paymona.com'
       target='_blank'
       >Launch Demo</DonateButton>
       </Wrap>
