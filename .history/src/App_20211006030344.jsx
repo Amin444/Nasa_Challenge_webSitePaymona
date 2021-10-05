@@ -105,10 +105,10 @@ function App() {
             className={classNames('lowText', pages === 2 ? 'activeText' : null)}>2. BUILD EARTH MODEL</span>
             <span 
             onClick={() => setPages(3)}
-            className={classNames('lowText', pages === 3 ? 'activeText' : null)}>3. CONNECT DEBRIS DATA</span>
+            className={classNames('lowText', pages === 3 ? 'activeText' : null)}>3.CONNECT DEBRIS DATA</span>
             <span 
             onClick={() => setPages(4)}
-            className={classNames('lowText', pages === 4 ? 'activeText' : null)}>4. ADD UI</span>
+            className={classNames('lowText', pages === 4 ? 'activeText' : null)}>4.ADD UI</span>
           </div>
           <div>
             {
